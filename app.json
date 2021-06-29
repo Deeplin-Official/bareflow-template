@@ -1,0 +1,15 @@
+{
+    "name": "ModulosPecuaria",
+    "displayName": "Módulos Pecuária",
+    "expo": {
+      "name": "Modulos Pecuaria",
+      "slug": "Modulos Pecuaria",
+      "version": "1.0.0",
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "android": {
+        "package": "com.modulospecuaria"
+      }
+    }
+  }
